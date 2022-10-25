@@ -9,7 +9,7 @@ A repo to visualize and animate earthquake data on map.
 ## Example output
 
 <p align="center">
-  <img src="./readme_images/quake.gif" width="400" />
+  <img src="./readme_images/quake.gif" width="700" />
 </p>
 
 ## :hammer_and_wrench:Setup/ Preparation
